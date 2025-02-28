@@ -1,6 +1,6 @@
 # Mempool Frontend
 
-You can build and run the Mempool frontend and proxy to the production Mempool backend (for easier frontend development), or you can connect it to your own backend for a full Mempool development instance, custom deployment, etc.
+You can build and run the Mempool frontend and proxy it to the production Mempool backend (for easier frontend development), or you can connect it to your own backend for a full Mempool development instance, custom deployment, etc.
 
 Jump to a section in this doc:
 - [Quick Setup for Frontend Development](#quick-setup-for-frontend-development)
@@ -121,7 +121,7 @@ https://www.transifex.com/mempool/mempool/dashboard/
 * Japanese @wiz @japananon
 * Norwegian @T82771355
 * Polish @maciejsoltysiak
-* Portugese @jgcastro1985
+* Portuguese @jgcastro1985
 * Slovenian @thepkbadger
 * Finnish @bio_bitcoin
 * Swedish @softsimon_
